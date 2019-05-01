@@ -1,5 +1,5 @@
 
-#Machine learning Template->in Python
+# Machine learning Template->in Python
 ### Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
